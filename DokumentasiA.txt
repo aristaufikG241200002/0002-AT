@@ -4,3 +4,5 @@ Timnas basket baru saja menyelesaikan rangkaian uji cobanya di Australia, pekan 
 Baca artikel detiksport, "Timnas Basket RI Jangan Hilang Momentum, Hasil Uji Coba Sudah Oke" selengkapnya https://sport.detik.com/basket/d-6151866/timnas-basket-ri-jangan-hilang-momentum-hasil-uji-coba-sudah-oke.
 
 Download Apps Detikcom Sekarang https://apps.detik.com/detik/
+
+git tag -a v0.1
