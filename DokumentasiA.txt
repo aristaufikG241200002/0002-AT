@@ -1,8 +1,0 @@
-Jakarta - Timnas Basket Indonesia menunjukkan tren positif sejak juara di SEA Games 2021 Vietnam. Manajer tim berharap skuadnya tak kehilangan momentum itu jelang kualifikasi World Cup 2023 dan FIBA Asia Cup 2022.
-Timnas basket baru saja menyelesaikan rangkaian uji cobanya di Australia, pekan lalu. Dari 10 latih tanding yang dilakukan melawan klub-klub Negeri Kanguru Divisi Satu, Merah Putih mencatat tujuh kemenangan dan tiga kekalahan.
-
-Baca artikel detiksport, "Timnas Basket RI Jangan Hilang Momentum, Hasil Uji Coba Sudah Oke" selengkapnya https://sport.detik.com/basket/d-6151866/timnas-basket-ri-jangan-hilang-momentum-hasil-uji-coba-sudah-oke.
-
-Download Apps Detikcom Sekarang https://apps.detik.com/detik/
-
-git tag -a v0.1
